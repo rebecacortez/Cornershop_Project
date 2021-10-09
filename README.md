@@ -66,3 +66,7 @@ As deliverable files, we will ask you for a .sql file with the queries used and 
 We also ask you a short report (on 1 page) explaining your main conclusions
 
 (*) Found Rate = ratio between the quantity product found vs the number of products ordered by the customer.
+
+
+**Tableau**:
+https://public.tableau.com/views/cornershop_16337089229600/Histria1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link
